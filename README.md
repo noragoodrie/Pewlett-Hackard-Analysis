@@ -1,12 +1,12 @@
 # Pewlett-Hackard-Analysis
 
-**PROJECT OVERVIEW
+**PROJECT OVERVIEW**
 
 The silver tsunami is near for Pewlett Hackard, so it was key that we were about to get all the data to them before it hit. The project at had consisted of 6 csv files filled with data that we needed to dive into to prepare the HR team with how many employees are reaching retirement. We had the job of determining the number of employees per title who are retiring, and we needed to identify which employees were eligible to participate in their mentorship program.
 
 Throughout this assignment we mainly used PgAdmin to generate queries and tables to make visuals and csv files to work from. We were able to join tables and generate data tables which were then exported as CSV files.
 
-**RESULTS
+**RESULTS**
 
 -	We needed to generate a Retirement Titles csv which shows the employee number, first name, last name, title, from data and to date. If we look at the first 10 rows of this dataset you will see how long each eligible employee has been within the company and how many different job titles they have had throughout the years.
 
@@ -26,7 +26,7 @@ Throughout this assignment we mainly used PgAdmin to generate queries and tables
 
 <img width="726" alt="Screen Shot 2021-11-14 at 8 00 08 PM" src="https://user-images.githubusercontent.com/91299616/141720306-2887bc13-4fa6-4036-8a31-f20544e86d24.png">
 
-**CONCLUSION
+**CONCLUSION**
 
 We know according to our retiring titles csv that there is a total of 90,398 employees ready to retire. When we calculate the number of employees that have a senior title, we get 57,668 employees. That means that 64% of employees retiring have a senior title. It’s safe to say that Pewlett Hackhard has more than a handful of employees reaching their time to ride the silver tsunami which may be hard to fill all the roles of those who left. The mentorship program will be insanely helpful for those who are hoping to move up the ladder, and from learning from those above them they will be set to excel up to the top.
 
